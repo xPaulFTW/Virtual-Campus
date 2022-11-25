@@ -1,0 +1,2 @@
+RED_LED = 38
+GREEN_LED = 40
