@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TaxiIneu</string>
+    <string name="tv_labellat">Lat:</string>
+    <string name="tv_lat">0.00</string>
+    <string name="tv_labellon">Lon:</string>
+    <string name="tv_lon">0.00</string>
+    <string name="tv_labelaltitude">Altitude:</string>
+    <string name="tv_altitude">0.00:</string>
+    <string name="tv_labelaccuracy">Accuracy:</string>
+    <string name="tv_accuracy">0.00:</string>
+    <string name="tv_lbladdress">Address:</string>
+    <string name="need_permission">This app requires permission to be granted in order to work proper</string>
+    <string name="not_available">Not available</string>
+    <string name="maplink">maplink</string>
+    <string name="no_address">No address</string>
+    <string name="not_tracking">Location is NOT being tracked</string>
+    <string name="locationButton">GPS</string>
+    <string name="sendButton">Send</string>
+    <string name="updateButton">Details</string>
+    <string name="deleteButton">Delete</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_work">Work</string>
+    <string name="action_fav">Fav</string>
+    <string name="action_help">Help</string>
+    <string name="action_map">Map</string>
+    <string name="action_gps">Gps</string>
+    <string name="switch2">Comment</string>
+    <string name="update_titlu">Order details</string>
+    <string name="editTextObs">Write something!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_help">Help</string>
+    <string name="tv_labelRatingBar">Rate last order</string>
+    <string name="tv_labelRatingBar2">Last order doesn\'t exist!</string>
+    <string name="tv_ratingBar">0</string>
+    <string name="rateButton">Rate</string>
+
+
+    <!-- Setari -->
+    <string name="textSetari">Settings</string>
+    <string name="editTextNume">Name</string>
+    <string name="textNume">Name</string>
+    <string name="textTel">Phone</string>
+    <string name="editTextTel">+407</string>
+    <string name="saveButton">Save</string>
+    <string name="adrButton">Address</string>
+    <string name="switch1">Edit</string>
+    <string name="radioButton1">Home</string>
+    <string name="radioButton2">Work</string>
+    <string name="radioButton3">Fav</string>
+    <string name="tv_status">Status</string>
+    <string name="pop_save">Save</string>
+    <string name="pop_cancel">Cancel</string>
+    <string name="pop_send">Send</string>
+
+    <!-- php -->
+    <string name="no_order">Order doesn\'t exist!</string>
+    <string name="order_received">Order received</string>
+    <string name="car_on_way">Car on way</string>
+    <string name="car_arrived">Car arrived</string>
+</resources>

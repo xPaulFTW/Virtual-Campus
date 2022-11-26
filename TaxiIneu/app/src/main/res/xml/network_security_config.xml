@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">android.taxi-ineu.ro</domain>
+        <trust-anchors>
+            <certificates src="@raw/androidtaxiineuroca"/>
+        </trust-anchors>
+
+    </domain-config>
+    <!--<base-config cleartextTrafficPermitted="true" /> -->
+</network-security-config>
