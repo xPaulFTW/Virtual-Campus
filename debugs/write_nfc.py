@@ -1,8 +1,8 @@
-import mfrc522
+from mfrc522 import SimpleMFRC522
 
 from threading import Thread
 
-reader = mfrc522.SimpleMFRC522()
+reader = SimpleMFRC522()
 
 string = input("Type what string do you want to write: ")
 
