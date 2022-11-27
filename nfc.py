@@ -80,8 +80,9 @@ def play_asound():
     n = randint(1, 2)
 
     names = {
-        1: "raducanu2.mp3",
-        2: "raducanu3.mp3"
+        1: "raducanu1.mp3",
+        2: "raducanu2.mp3",
+        3: "raducanu3.mp3"
     }
 
     playsound(names[n])
