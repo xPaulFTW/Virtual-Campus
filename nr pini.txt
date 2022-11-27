@@ -1,0 +1,8 @@
+Maro(IRQ)-GPIO 24 (18)
+Rosu(NSS)-GPIO 08   (24)
+Portocaliu(SCK)-GPIO 11 (23)
+Galben(mosi)-GPIO 10 (19)
+Verde(MIOS)-GPIO 09 (21)
+Albastru(GND)-GPIO 24 (18)
+Violet(RST)-GPIO 25 (22)
+Gri(VCC)- GPIO 3.3v DC Power (17)
